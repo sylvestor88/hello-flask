@@ -1,4 +1,3 @@
 bind-addr: 0.0.0.0:8443
-auth: password
-password: ae95c9643bdbed5c1d126893
+auth: none
 cert: false
